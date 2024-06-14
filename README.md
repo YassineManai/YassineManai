@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinemanai&label=Profile%20views&color=0e75b6&style=flat" alt="yassinemanai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinemanai" alt="yassinemanai" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbmcycDF1MzF0dXZqcno4YTV5NjMza3g3eWx2dmIxa2VzNWV5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbmcycDF1MzF0dXZqcno4YTV5NjMza3g3eWx2dmIxa2VzNWV5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 - 🌱 I’m currently learning **Reactjs**
 
