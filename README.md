@@ -33,6 +33,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
+</br></br>
 <img align="left" width="251px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="251px">
   <tr>
@@ -349,7 +350,7 @@
     </td>
    </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/contact.png" width="100%" alt="Contact Section Title" />
@@ -374,8 +375,8 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/projects.png" width="100%" alt="Projects Section Title" />
-<img align="left" src="./images/projects-wallpaper.gif" height="650px" alt="Boy programming, working in personal projects" />
-<table height="650px" align="right">
+<img align="left" src="./images/projects-wallpaper.gif" height="491px" alt="Boy programming, working in personal projects" />
+<table height="491px" align="right">
   <tr>
     <td>
     <a href="https://github.com/YassineManai/DEVOPS-Project" target="_blank">
@@ -455,7 +456,7 @@
   
   
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
