@@ -35,6 +35,7 @@
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
 </br></br>
 <img align="left" width="251px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+
 <table align="right" height="251px">
   <tr>
     <td align="center">
@@ -375,6 +376,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/projects.png" width="100%" alt="Projects Section Title" />
+<br/></br>
 <img align="left" src="./images/projects-wallpaper.gif" height="491px" alt="Boy programming, working in personal projects" />
 <table height="491px" align="right">
   <tr>
@@ -462,10 +464,10 @@
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YassineManai&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 <br/><br/><br/>
-<img align="left" height="538px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=YassineManai&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
+<img align="left" height="473px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=YassineManai&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
-  <img width="575px" src="https://luk4x-github-readme-stats.vercel.app/api?username=YassineManai&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="575px" src="https://streak-stats.demolab.com/?user=YassineManai&theme=tokyonight&hide_border=true" />
+  <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=YassineManai&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="505px" src="https://streak-stats.demolab.com/?user=YassineManai&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 
