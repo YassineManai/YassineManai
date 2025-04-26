@@ -10,7 +10,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/about.png" width="100%" alt="About Me Section Title" />
-<img align="right" src="./images/analysis.gif" border="2" width="380px" height="294px" alt="Boy sitting in front of a monitor in a dark room" />
+<img align="right" src="./images/analysis.gif" border="2" width="380px" height="310px" alt="Boy sitting in front of a monitor in a dark room" />
 <ul>
   <li>🤩️ Passionate about programming, technology, and continuous learning.</li>
   <li>🔭 I have a strong foundation in both Front-end and Back-end technologies.</li>
