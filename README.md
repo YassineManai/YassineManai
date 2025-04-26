@@ -29,7 +29,6 @@
     </details>
   </li>
 </ul>
-<br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
