@@ -13,12 +13,11 @@
 <img align="right" src="./images/analysis.gif" border="2" width="380px" height="294px" alt="Boy sitting in front of a monitor in a dark room" />
 <ul>
   <li>🤩️ Passionate about programming, technology, and continuous learning.</li>
-  <li>🔭 🔭 With experience in full lifecycle development, including programming, quality assurance, support, and implementation, I have a strong foundation in both Front-end and Back-end technologies.</li>
+  <li>🔭 I have a strong foundation in both Front-end and Back-end technologies.</li>
   <li>💻 I am currently building projects involving Web Applications, Microservices, and Dashboard interfaces, with a focus on Angular, Spring Boot, and .NET Core..</li>
   <li>📚 <b>📚 I am pursuing a degree in IT Engineering and actively expanding my skills through real-world projects, internships, and personal development.</li>
   <li>🇺🇸 I have a good level of English and use it daily in technical contexts.</li>
   <li>🎮 In my free time, I enjoy gaming, exploring new tech trends, and working on side projects to sharpen my skills..</li>
-  <li>👨‍💻 Fun facts: I love collaborating with high-performance development teams and constantly seek to push the limits of what I can build.</li>
   <li>
     <details>
       <summary>👽 Curiosities:</summary>
@@ -119,9 +118,7 @@
       </sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+       <td align="center">
           <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java"/><br/>
         <sub>
@@ -131,7 +128,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+       <td align="center">
       <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="65px" alt="Android Studio"/><br/>
         <sub>
@@ -141,6 +138,8 @@
         </sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://sass-lang.com/">
         <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
@@ -163,7 +162,7 @@
     </td>
     <td align="center">
        <a href="https://getbootstrap.com/">
-      <img src="https://skillicons.dev/icons?i=php" width="65px" alt="Python"/><br/>
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python"/><br/>
         <sub>
           <b>
             <pre>Python</pre>
@@ -171,9 +170,7 @@
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+          <td align="center">
       <a href="https://stripe.com/en-br/">
         <img src="https://github.com/Luk4x/Luk4x/assets/86276393/368e62fc-6dfd-4f28-a325-ddc8d3dad403" width="65px" alt="Stripe icon"/><br/>
         <sub>
@@ -193,7 +190,10 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+  </tr>
+ 
+  <tr>
+      <td align="center">
       <a href="https://expressjs.com/">
         <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
         <sub>
@@ -223,8 +223,6 @@
         </sub>
      </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker"/><br/>
@@ -245,7 +243,9 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
         <sub>
@@ -257,7 +257,7 @@
     </td>
      <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=mondodb" width="65px" alt="MongoDb"/><br/>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDb"/><br/>
         <sub>
           <b>
             <pre>MongoDB</pre>
@@ -295,7 +295,9 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+  </tr>
+   <tr>
+     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
         <sub>
@@ -305,8 +307,6 @@
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://ohmyz.sh/">
         <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
@@ -347,7 +347,7 @@
         </sub>
       </a>
     </td>
-  </tr>
+   </tr>
 </table>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
@@ -383,6 +383,76 @@
     </a>
     </td>
   </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/YassineManai/Application_Web_Distibue">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=Application_Web_Distibue&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+     <tr>
+    <td>
+    <a href="https://github.com/YassineManai/Mobile-Application-For-SOTACIB-HACKATHON-">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=Mobile-Application-For-SOTACIB-HACKATHON-&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/YassineManai/CoffiCab-Intership-Wesbsite">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=CoffiCab-Intership-Wesbsite&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/YassineManai/ArtyVenci-Symfony-Website">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=ArtyVenci-Symfony-Website&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/YassineManai/Desktop_JavaFx_ArtyVenci">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=Desktop_JavaFx_ArtyVenci&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+     <tr>
+    <td>
+    <a href="https://github.com/YassineManai/DashboardProject">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=DashboardProject&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+     <tr>
+    <td>
+    <a href="https://github.com/YassineManai/Crimson-Website">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=Crimson-Website&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+       <tr>
+    <td>
+    <a href="https://github.com/YassineManai/Student-Internship-App">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=Student-Internship-App&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+        <tr>
+    <td>
+    <a href="https://github.com/YassineManai/PlutoTv">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=PlutoTv&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+    <td>
+    <a href="https://github.com/YassineManai/Tunisia-Weather-App">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=YassineManai&repo=Tunisia-Weather-App&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    </a>
+    </td>
+  </tr>
+  
   
 </table>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -390,6 +460,7 @@
 
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YassineManai&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<br/><br/><br/>
 <img align="left" height="538px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=YassineManai&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
   <img width="575px" src="https://luk4x-github-readme-stats.vercel.app/api?username=YassineManai&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
