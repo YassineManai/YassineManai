@@ -373,7 +373,7 @@
   </a>
   <img src="./components/icons/discord.png" alt="Discord badge" height="30px" />
 </p>
-<br/>
+<br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/projects.png" width="100%" alt="Projects Section Title" />
