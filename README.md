@@ -355,7 +355,8 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/contact.png" width="100%" alt="Contact Section Title" />
-<img align="right" width="165px" src="./images/oh-ok.gif" alt="Girl working with programming"/>
+<br/><br/>
+<img align="right" width="170px" src="./images/oh-ok.gif" alt="Girl working with programming"/>
 <br/><br/><br/>
 <p align="center">
   <a href="mailto:Yassine.Manai@esprit.tn" target="_blank">
@@ -372,7 +373,7 @@
   </a>
   <img src="./components/icons/discord.png" alt="Discord badge" height="30px" />
 </p>
-<br/><br/>
+<br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/projects.png" width="100%" alt="Projects Section Title" />
