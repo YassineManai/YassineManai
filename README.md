@@ -33,8 +33,8 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
-<img align="left" height="378px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="378px">
+<img align="left" width="251px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<table align="right" height="251px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
