@@ -21,14 +21,14 @@
 - **Architecture & Quality:** MERN Stack, Component-Based Architecture, Clean Code, MVC, Git & GitFlow, Agile/Scrum
 - **UI & Others:** Tailwind CSS, CSS3, HTML5, Responsive Design, Basic Animations, SEO fundamentals, Docker basics, Linux (Ubuntu / Arch)
 
-> Outside of work: Anime · Music · FPS Games
+> Outside of work: Anime · Music · MMO Games
 
 <div align="center">
   <a href="mailto:Yassine.Manai@esprit.tn" target="_blank">
    <img width="220px" height="40px" src="./components/icons/email.png" alt="Yassine Manai Email" />
   </a>
   <a href="https://www.linkedin.com/in/yassine-manai-1b683623b/" target="_blank">
-     <img width="161px" height="40px" src="./components/icons/in.png" alt="Yassine Manai LinkedIn" />
+     <img width="220px" height="40" src="./components/icons/in.png" alt="Yassine Manai LinkedIn" />
   </a>
 </div>
 
