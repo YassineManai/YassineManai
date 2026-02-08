@@ -464,7 +464,7 @@
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YassineManai&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 <br/><br/><br/>
-<img align="left" height="473px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=YassineManai&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=compact" />
+<img align="left" height="473px" src="https://lgithub-readme-stats.vercel.app/api/top-langs?username=YassineManai&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=compact" />
 <div align="right">
   <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=YassineManai&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
   <img width="505px" src="https://streak-stats.demolab.com/?user=YassineManai&theme=tokyonight&hide_border=true" />
