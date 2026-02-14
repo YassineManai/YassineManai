@@ -41,4 +41,6 @@
   <img width="505px" src="https://luk4x-github-readme-streak-status.vercel.app?user=YassineManai&theme=github-dark-dimmed&hide_border=true" />
 </div>
 <br/>
-
+<div align="center">
+  <img src="https://luk4x-github-readme-status.vercel.app/api/wakatime?username=YassineManai&langs_count=8&theme=github_dark_dimmed&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
+</div>
